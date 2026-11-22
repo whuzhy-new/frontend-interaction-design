@@ -1,0 +1,110 @@
+[
+ {
+  "query": "帮我看看这个登录表单，用户总说填完不知道错在哪",
+  "should_trigger": true
+ },
+ {
+  "query": "我们设计系统要加一个 Toast 组件，帮我把各种状态和文案定一下",
+  "should_trigger": true
+ },
+ {
+  "query": "这个删除按钮点了直接删，没有确认，你觉得该怎么改",
+  "should_trigger": true
+ },
+ {
+  "query": "支付超时的时候页面就卡住了，用户会重复点，怎么设计",
+  "should_trigger": true
+ },
+ {
+  "query": "给「批量导入供应商」这个流程写一份交互规格",
+  "should_trigger": true
+ },
+ {
+  "query": "空列表页现在只有暂无数据，老板让我优化一下",
+  "should_trigger": true
+ },
+ {
+  "query": "我们的 React 组件里 div 绑定了 onClick，键盘用户是不是用不了",
+  "should_trigger": true
+ },
+ {
+  "query": "弹窗打开后焦点应该放哪？我们现在的实现是这样……",
+  "should_trigger": true
+ },
+ {
+  "query": "移动端列表滑动删除怎么做才不误触",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我 review 一下这个页面的交互，截图在附件里",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我把这个按钮改成圆角，主色用 #2563EB",
+  "should_trigger": true
+ },
+ {
+  "query": "这个 React 组件报错 Cannot read property 'map'，帮我修一下",
+  "should_trigger": false
+ },
+ {
+  "query": "给这个页面写一套 CSS 变量和暗色主题 token",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我设计一个 logo，风格简洁，要能印在名片上",
+  "should_trigger": false
+ },
+ {
+  "query": "这个接口 500 了，帮我查一下后端日志",
+  "should_trigger": false
+ },
+ {
+  "query": "用 Next.js 搭一个博客，带 MDX 和 RSS",
+  "should_trigger": false
+ },
+ {
+  "query": "帮我把这段产品文案翻译成英文",
+  "should_trigger": false
+ },
+ {
+  "query": "画一个用户旅程图，给老板汇报用",
+  "should_trigger": false
+ },
+ {
+  "query": "做一个 PPT 讲可用性测试的三种方法",
+  "should_trigger": false
+ },
+ {
+  "query": "这个入场动画用 Framer Motion 怎么写",
+  "should_trigger": false
+ },
+ {
+  "query": "首页和栏目页的新闻卡片样式不一致，帮我统一一下",
+  "should_trigger": true
+ },
+ {
+  "query": "新页面又要写一个新闻列表组件，别重复造，看看能不能复用",
+  "should_trigger": true
+ },
+ {
+  "query": "review 下整个网站组件，尽可能统一组件",
+  "should_trigger": true
+ },
+ {
+  "query": "为什么同款组件在栏目页行距更紧，首页却正常",
+  "should_trigger": true
+ },
+ {
+  "query": "这个按钮颜色写死成 #2563EB 了，怎么改成 token",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我把这个组件的 TypeScript 泛型补全",
+  "should_trigger": false
+ },
+ {
+  "query": "这个 CSS 选择器优先级怎么算",
+  "should_trigger": false
+ }
+]
